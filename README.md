@@ -17,7 +17,7 @@
 
 类图中的“类”与面向对象语言中的“类”的概念是对应的，是对现实世界中事物的抽象。
 
-![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6e79df526b4f64d0.drawio.png)
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6e79df526b4f64d0.drawio)
 
 ## 用例图后面为什么是画类图，而不是其他图，类图产生于什么阶段，由谁来绘制，类图它的作用是什么？
 
