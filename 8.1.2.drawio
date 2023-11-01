@@ -1,0 +1,79 @@
+<mxfile host="Electron" modified="2023-11-01T09:51:50.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="n5ec_S3OWbehwPuxqhXX" version="22.0.3" type="device">
+  <diagram name="第 1 页" id="2FISZoZGbKOTBUCJsezb">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJvKewxP6mEphRL44FiA-31" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="520" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MJvKewxP6mEphRL44FiA-31">
+          <mxGeometry width="520" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;輸入數據&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-34" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;修改數據&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry x="86" width="88" height="45" as="geometry">
+            <mxRectangle width="88" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;統計&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry x="174" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-36" value="退卡" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry x="260" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-37" value="結帳" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry x="346" width="88" height="45" as="geometry">
+            <mxRectangle width="88" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-38" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;顯示&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-32">
+          <mxGeometry x="434" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="MJvKewxP6mEphRL44FiA-31">
+          <mxGeometry y="45" width="520" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-40" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;添加&amp;nbsp;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-41" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;刪除&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry x="86" width="88" height="45" as="geometry">
+            <mxRectangle width="88" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;查詢&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry x="174" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-43" value="注躺" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry x="260" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-44" value="充值" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=17;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry x="346" width="88" height="45" as="geometry">
+            <mxRectangle width="88" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJvKewxP6mEphRL44FiA-45" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;打印&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="MJvKewxP6mEphRL44FiA-39">
+          <mxGeometry x="434" width="86" height="45" as="geometry">
+            <mxRectangle width="86" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
