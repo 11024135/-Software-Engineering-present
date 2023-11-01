@@ -113,6 +113,7 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 ## 8.1、首先寻找类，可通过寻找名词，动词来确定
 
 需求过程中的名词组
+
 ![image](https://github.com/11024135/-Software-Engineering-present/blob/main/8.1.drawio.png)
 
 需求过程中的动词组
