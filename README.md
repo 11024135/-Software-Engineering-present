@@ -112,16 +112,15 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 ## 8.1、首先寻找类，可通过寻找名词，动词来确定
 
 需求过程中的名词组
-
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/8.1.drawio.png)
 
 需求过程中的动词组
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/8.1.2.drawio.png)
 
 ## 8.2、绘制类图
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/8.2.drawio.png)
 
 ## 对象图
 
@@ -133,11 +132,11 @@ image
 
 ## 9.2 类图与对象图的区别？
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/9.2.drawio.png)
 
 对象图：
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/9.2.2.drawio.png)
 
 以上是依照个人理解绘制的机房收费系统类图、对象图（如有不足，请您给予指正）
 
