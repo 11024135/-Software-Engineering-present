@@ -59,7 +59,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 一种参数化的类，在编译时把模板参数绑定到不同的数据类型，从而产生不同的类。
 
-image
+![image}(https://github.com/11024135/-Software-Engineering-present/blob/main/6.1.4.drawio.png)
 
 ## 6.2、类的关系
 
@@ -67,7 +67,7 @@ image
 
 描述了类的结构之间的关系，具有方向、名字、角色和多重性等信息。
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.1.drawio.png)
 
 一般的关联关系语义较弱，也有两种语义较强，分别是聚合和组合
 
@@ -75,27 +75,27 @@ image
 
 特殊关联关系，指明一个聚合（整体）和组成部分之间的关系
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.1-1.drawio.png)
 
 组合关系：
 
 语义更强的聚合，部分和整体具有相同的生命周期
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.1-2.drawio.png)
 
 ## 6.2.2、泛化关系：
 
 在面向对象中一般称为继承关系，存在于父类与子类、父接口与子接口
 
-image
+![image}(https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.2.1.drawio.png)
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.2.2.drawio.png)
 
 ## 6.2.3、实现关系：
 
 对应于类和接口之间的关系
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.3.drawio.png)
 
 ## 6.2.4、依赖关系：
 
@@ -105,7 +105,7 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 
 ## 类图思维导图
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.2.4.drawio.png)
 
 ## 以机房收费系统为实例绘制类图
 
