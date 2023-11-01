@@ -41,7 +41,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 从上到下分为三部分，分别是类名、属性和操作。
 
-image
+![image](https://github.com/11024135/-Software-Engineering-present/blob/main/6.1.1.drawio.png)
 
 ## 6.1.2、接口
 
